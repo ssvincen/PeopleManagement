@@ -1,0 +1,38 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Accounts] (Table)
+       [dbo].[Accounts].[IX_Account_num] (Index)
+       [dbo].[Persons] (Table)
+       [dbo].[Persons].[IX_Person_id] (Index)
+       [dbo].[Roles] (Table)
+       [dbo].[Status] (Table)
+       [dbo].[Transactions] (Table)
+       [dbo].[UserRoles] (Table)
+       [dbo].[Users] (Table)
+       [dbo].[Users].[IX_Users_EmailAddress] (Index)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Users] (Default Constraint)
+       [dbo].[FK_Account_Person] (Foreign Key)
+       [dbo].[FK_Account_Status] (Foreign Key)
+       [dbo].[FK_Transaction_Account] (Foreign Key)
+       [dbo].[FK_UserId] (Foreign Key)
+       [dbo].[FK_UserRoleId] (Foreign Key)
+       [dbo].[spTransaction_AddTransaction] (Procedure)
+       [dbo].[spUsers_AddUser] (Procedure)
+       [dbo].[spUsers_FindByUsername] (Procedure)
+       [dbo].[spUsers_UpdateUserRefreshToken] (Procedure)
+
+** Supporting actions

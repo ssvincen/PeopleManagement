@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v5aciMVZma7ro0C85clHLA4cT1KHKEf8CFTNOzFNQRs=",
+  "Source": "PeopleManagementAPI",
+  "BasePath": "_content/PeopleManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_BI.deps.json
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_BI.dll
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_BI.pdb
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_BO.dll
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_Utility.dll
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_BO.pdb
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\bin\Debug\net8.0\PeopleManagement_Utility.pdb
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.csproj.AssemblyReference.cache
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.AssemblyInfoInputs.cache
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.AssemblyInfo.cs
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.csproj.CoreCompileInputs.cache
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleMa.18B39AAF.Up2Date
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.dll
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\refint\PeopleManagement_BI.dll
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\PeopleManagement_BI.pdb
+C:\Users\ssvin\source\repos\PeopleManagementAPI\PeopleManagement_BI\obj\Debug\net8.0\ref\PeopleManagement_BI.dll
